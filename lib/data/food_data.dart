@@ -7,6 +7,9 @@ final List<FoodItem> foodItems = [
     modelUrl: "assets/Avocado.glb",
     calories: "234 kcal",
     ingredients: "Avocado",
+    price: 24.99,
+    rating: 4.5,
+
   ),
 
   FoodItem(
@@ -15,6 +18,8 @@ final List<FoodItem> foodItems = [
     modelUrl: "assets/chicken_nuggets.glb",
     calories: "270 kcal",
     ingredients: "Chicken, Flour, Oil, Salt, Spices",
+    price: 24.99,
+    rating: 4.5,
   ),
 
   FoodItem(
@@ -23,6 +28,8 @@ final List<FoodItem> foodItems = [
     modelUrl: "assets/chocolate_chip_cookie.glb",
     calories: "160 kcal",
     ingredients: "Flour, Sugar, Butter, Chocolate Chips, Eggs",
+    price: 24.99,
+    rating: 4.5,
   ),
 
   FoodItem(
@@ -31,6 +38,8 @@ final List<FoodItem> foodItems = [
     modelUrl: "assets/croissants_fresh_baked.glb",
     calories: "231 kcal",
     ingredients: "Flour, Butter, Yeast, Milk, Sugar",
+    price: 24.99,
+    rating: 4.5,
   ),
 
   FoodItem(
@@ -39,6 +48,8 @@ final List<FoodItem> foodItems = [
     modelUrl: "assets/disembodied_frozen_pizza.glb",
     calories: "285 kcal",
     ingredients: "Flour, Tomato Sauce, Cheese, Oil",
+    price: 24.99,
+    rating: 4.5,
   ),
 
   FoodItem(
@@ -47,6 +58,8 @@ final List<FoodItem> foodItems = [
     modelUrl: "assets/food_spaghetti_tallarin_noodles_pasta.glb",
     calories: "220 kcal",
     ingredients: "Wheat Flour, Water, Salt",
+    price: 24.99,
+    rating: 4.5,
   ),
 
   FoodItem(
@@ -55,6 +68,8 @@ final List<FoodItem> foodItems = [
     modelUrl: "assets/grilled_cheese_sandwich.glb",
     calories: "320 kcal",
     ingredients: "Bread, Cheese, Butter",
+    price: 24.99,
+    rating: 4.5,
   ),
 
   FoodItem(
@@ -63,6 +78,8 @@ final List<FoodItem> foodItems = [
     modelUrl: "assets/KFC_zinger_burger_photogrammetry.glb",
     calories: "450 kcal",
     ingredients: "Chicken, Bun, Lettuce, Spices, Sauce",
+    price: 24.99,
+    rating: 4.5,
   ),
 
   FoodItem(
@@ -71,6 +88,8 @@ final List<FoodItem> foodItems = [
     modelUrl: "assets/pepperoni_pizza.glb",
     calories: "300 kcal",
     ingredients: "Flour, Cheese, Pepperoni, Tomato Sauce",
+    price: 24.99,
+    rating: 4.5,
   ),
 
   FoodItem(
@@ -79,6 +98,8 @@ final List<FoodItem> foodItems = [
     modelUrl: "assets/sandwich.glb",
     calories: "280 kcal",
     ingredients: "Bread, Vegetables, Cheese, Sauce",
+    price: 24.99,
+    rating: 4.5,
   ),
 
   FoodItem(
@@ -87,6 +108,8 @@ final List<FoodItem> foodItems = [
     modelUrl: "assets/sourdough_bread.glb",
     calories: "190 kcal",
     ingredients: "Flour, Water, Salt, Natural Yeast",
+    price: 24.99,
+    rating: 4.5,
   ),
 
   FoodItem(
@@ -95,6 +118,8 @@ final List<FoodItem> foodItems = [
     modelUrl: "assets/spicy_ramen.glb",
     calories: "410 kcal",
     ingredients: "Noodles, Chili, Broth, Spices",
+    price: 24.99,
+    rating: 4.5,
   ),
 
   FoodItem(
@@ -103,6 +128,8 @@ final List<FoodItem> foodItems = [
     modelUrl: "assets/sushi.glb",
     calories: "350 kcal",
     ingredients: "Rice, Fish, Seaweed, Soy Sauce",
+    price: 24.99,
+    rating: 4.5,
   ),
 
   FoodItem(
@@ -111,6 +138,8 @@ final List<FoodItem> foodItems = [
     modelUrl: "assets/box_combo_w_ extra_sauce.glb",
     calories: "780 kcal",
     ingredients: "Chicken, Fries, Sauce, Bread",
+    price: 24.99,
+    rating: 4.5,
   ),
 
   FoodItem(
@@ -119,5 +148,7 @@ final List<FoodItem> foodItems = [
     modelUrl: "assets/12_26_2025.glb",
     calories: "500 kcal",
     ingredients: "Mixed Ingredients",
+    price: 24.99,
+    rating: 4.5,
   ),
 ];
